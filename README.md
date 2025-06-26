@@ -1,6 +1,8 @@
 # 💼 Raghav Sunil – Developer Portfolio
 
-<img src="image.jpg" width="500" height="300"/>
+<p align="center">
+  <img src="image.jpg" width="300" height="400"/>
+</p>
 
 Hi! I'm a backend-focused Computer Science student at Purdue University, passionate about building scalable systems, integrating LLMs, and solving real-world problems through code. I enjoy working across the stack, but I specialize in backend development, cloud deployment, and AI-powered applications.
 
