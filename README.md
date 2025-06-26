@@ -1,4 +1,4 @@
-# 💼 Raghav Sunil – Developer Portfolio
+# 💼 Raghav Sunil
 
 <p align="center">
   <img src="image.jpg" width="450" height="400"/>
