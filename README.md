@@ -10,7 +10,7 @@ Hi! I'm a Computer Science student at Purdue University, passionate about buildi
 
 ## 🚀 Featured Projects
 
-### 🔒 [MemShare](https://github.com/your-username/MemShare)
+### 🔒 [MemShare](https://github.com/Rag43/MemShare)
 *Secure media-sharing platform with Spring Boot, PostgreSQL, React, and AWS S3*  
 • Implemented secure JWT-based auth, role-based access control, and 15+ REST APIs  
 • Integrated AWS S3 for media storage (500+ uploads), deployed via Docker + Render  
@@ -18,7 +18,7 @@ Hi! I'm a Computer Science student at Purdue University, passionate about buildi
 
 ---
 
-### 🤖 [ModBot](https://github.com/your-username/ModBot)
+### 🤖 [ModBot](https://github.com/Rag43/ModBot)
 *AI-powered Discord moderation bot with GPT-4 + LlamaIndex*  
 • Built automated moderation system with real-time prompt pipelines and role-based logic  
 • Integrated OpenAI's GPT-4 for intelligent filtering and SQLite for persistent strike tracking  
@@ -26,7 +26,7 @@ Hi! I'm a Computer Science student at Purdue University, passionate about buildi
 
 ---
 
-### 🧾 [Volunteer Management System](https://github.com/your-username/Volunteer-Manager)
+### 🧾 [Volunteer Management System](https://github.com/Rag43/Volunteer-Management-System)
 *Cross-platform volunteer tracking system used by a real nonprofit*  
 • Node.js + Express backend with MongoDB Atlas for session + user data  
 • Java Swing desktop app for admin-side CRUD and approval workflows  
